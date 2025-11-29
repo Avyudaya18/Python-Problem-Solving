@@ -1,3 +1,4 @@
+#Prime Number
 def Prime(num):
     if num>2:
         for i in range(2,int(num**0.5)+1):
