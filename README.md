@@ -7,8 +7,8 @@ I regularly upload new folders every few days to maintain consistent learning pr
 | Folder | Description |
 |--------|-------------|
 | Functional_Programming | Programs based on functions, recursion, lambda, map, filter, reduce etc. |
-| Numbers_Programming | Number-based problems (Coming soon) |
-| Patterns | Pattern printing problems (Coming soon) |
+| Numbers_Programming | Number-based problems |
+| Patterns | Pattern printing problems |
 | Searching | Searching algorithm programs (Coming soon) |
 | Sorting | Sorting algorithm programs (Coming soon) |
 | OOPS | Object-Oriented Programming (Coming soon) |
