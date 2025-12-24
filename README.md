@@ -9,7 +9,7 @@ I regularly upload new folders every few days to maintain consistent learning pr
 | Functional_Programming | Programs based on functions, recursion, lambda, map, filter, reduce etc. |
 | Numbers_Programming | Number-based problems |
 | Patterns | Pattern printing problems |
-| Searching | Searching algorithm programs (Coming soon) |
+| Searching | Searching algorithm programs |
 | Sorting | Sorting algorithm programs (Coming soon) |
 | OOPS | Object-Oriented Programming (Coming soon) |
 
@@ -31,7 +31,10 @@ I regularly upload new folders every few days to maintain consistent learning pr
 ## 📅 Upload Schedule
 I will be uploading new folders every **3–4 days**, starting with:
 - Functional Programming (Uploaded)
-- Numbers Programming (Next update)
+- Numbers Programming (Uploaded)
+- Patterns (Uploaded)
+- Searching (Uploaded)
+- Sorting (Next update)
 
 ---
 
